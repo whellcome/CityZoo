@@ -36,7 +36,7 @@ The following artifacts are included in this repository:
 
 1. **Operational Database Design**  
    - [ERM Diagram](path/to/ERM-diagram)  
-   - [Relational Database File](path/to/database-file)  
+   - [Relational Database File](https://github.com/whellcome/CityZoo/blob/master/Design/CityZoo.accdb)  
    - [Data Dictionary](path/to/data-dictionary)
 
 2. **Data Warehouse Components**  
