@@ -38,18 +38,18 @@ The following artifacts are included in this repository:
 1. **Operational Database Design**  
    - [ERM Diagram](https://github.com/whellcome/CityZoo/blob/master/Design/ERM_City_Zoo.png)
    - [Relational Database File](https://github.com/whellcome/CityZoo/blob/master/Design/CityZoo.accdb)  
-   - [Data Dictionary](path/to/data-dictionary)
-   - [SQL script to create Relational Database Prototyp](path/to/data-dictionary)
+   - [Data Dictionary](https://github.com/whellcome/CityZoo/blob/master/Design/Data_Dictionary_Zoo.xlsx)
+   - [SQL script to create Relational Database Prototyp](https://github.com/whellcome/CityZoo/blob/master/Code/export-msaccess-sql.py)
 
 2. **Data Warehouse Components**  
-   - [Data Warehouse Model](path/to/dw-model)  
-   - [IT Architecture Diagram](path/to/architecture-diagram)
+   - [Data Warehouse Model](https://github.com/whellcome/CityZoo/tree/master/Design)  
+   - [IT Architecture Diagram](https://github.com/whellcome/CityZoo/blob/master/Concept/IT-Infrastruktur_City_Zoo.pptx)
 
 3. **Data Quality Concept**  
-   - [Documentation](path/to/data-quality-doc)
+   - [Documentation](https://github.com/whellcome/CityZoo/tree/master/Concept)
 
 4. **Presentation**  
-   - [Project Presentation](path/to/presentation)
+   - [Project Presentation](https://github.com/whellcome/CityZoo/blob/master/Concept/City%20Zoo.pptx)
 
 ---
 
