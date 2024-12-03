@@ -12,10 +12,11 @@ The project addresses key tasks required for implementing integrated data system
    - Develop a complete Entity-Relationship Model (ERM) for the zoo's operational database.  
    - Normalize all many-to-many (M:N) relationships and define primary keys, foreign keys, and cardinalities.
 
-2. **Relational Database Implementation**  
-   - Implement the operational database based on the ERM.  
+2. **Relational Database Implementation & export in SQL format**  
+   - Implement the operational MS Access database based on the ERM.  
    - Provide comprehensive documentation, including a detailed data dictionary.
-
+   - Python-Based Export Algorithm to export MS Access data into an SQL format
+   
 3. **Data Warehouse Design and Architecture**  
    - Propose and justify a Data Warehouse schema (e.g., Star, Snowflake, or Data Vault).  
    - Create a corresponding data model and IT architecture to support Business Intelligence (BI) capabilities.
@@ -38,6 +39,7 @@ The following artifacts are included in this repository:
    - [ERM Diagram](https://github.com/whellcome/CityZoo/blob/master/Design/ERM_City_Zoo.png)
    - [Relational Database File](https://github.com/whellcome/CityZoo/blob/master/Design/CityZoo.accdb)  
    - [Data Dictionary](path/to/data-dictionary)
+   - [SQL script to create Relational Database Prototyp](path/to/data-dictionary)
 
 2. **Data Warehouse Components**  
    - [Data Warehouse Model](path/to/dw-model)  
@@ -74,6 +76,6 @@ The project paves the way for further enhancements in the zoo's IT infrastructur
 
 ## License
 
-This repository is made available for educational purposes and is shared under [CC BY-NC-ND 4.0](https://github.com/Gibberlings3/GitHub-Templates/blob/master/License-Templates/CC-BY-NC-ND-4.0/LICENSE-CC-BY-NC-ND-4.0.md). For details, see the [LICENSE](LICENSE.md) file.
+This repository is made available for educational purposes and is shared under **CC BY-NC-ND 4.0.** For details, see the [LICENSE](LICENSE.md) file.
 
 ---
