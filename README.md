@@ -2,7 +2,7 @@
 
 # Data Engineering Project: Modernizing Zoo Operations
 
-This repository contains the results of a Data Engineering project aimed at modernizing the operational and analytical systems of the Pirmasens Zoo. The project was conducted as part of a professional assignment to design and implement IT-supported processes for a long-established organization undergoing a comprehensive modernization effort.
+This repository contains the results of a Data Engineering project aimed at modernizing the operational and analytical systems of the City Zoo. The project was conducted as part of a professional assignment to design and implement IT-supported processes for a long-established organization undergoing a comprehensive modernization effort.
 
 ## Project Overview
 
