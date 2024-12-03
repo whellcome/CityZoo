@@ -35,7 +35,7 @@ The project addresses key tasks required for implementing integrated data system
 The following artifacts are included in this repository:
 
 1. **Operational Database Design**  
-   - [ERM Diagram](path/to/ERM-diagram)  
+   - [ERM Diagram](https://github.com/whellcome/CityZoo/blob/master/Design/ERM_City_Zoo.png)
    - [Relational Database File](https://github.com/whellcome/CityZoo/blob/master/Design/CityZoo.accdb)  
    - [Data Dictionary](path/to/data-dictionary)
 
