@@ -11,7 +11,7 @@ The project addresses key tasks required for implementing integrated data system
 1. **Operational Database Design (ERM)**  
    - Develop a complete Entity-Relationship Model (ERM) for the zoo's operational database.  
    - Normalize all many-to-many (M:N) relationships and define primary keys, foreign keys, and cardinalities.
-
+![City_Zoo ERM shema](Design/ERM_City_Zoo.png)
 2. **Relational Database Implementation & export in SQL format**  
    - Implement the operational MS Access database based on the ERM.  
    - Provide comprehensive documentation, including a detailed data dictionary.
@@ -20,7 +20,7 @@ The project addresses key tasks required for implementing integrated data system
 3. **Data Warehouse Design and Architecture**  
    - Propose and justify a Data Warehouse schema (e.g., Star, Snowflake, or Data Vault).  
    - Create a corresponding data model and IT architecture to support Business Intelligence (BI) capabilities.
-
+![City_Zoo Data Vault shema](https://raw.githubusercontent.com/whellcome/CityZoo/e11be230b5a66a4065515be9a0e600c238a5a8f8/DV_Shema_Zoo.png)
 4. **Data Quality Concept**  
    - Develop a strategy to maintain data quality above 97%.  
    - Ensure sustainable processes for data maintenance and error handling.
